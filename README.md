@@ -1,0 +1,1 @@
+# odoo_show_all_message
